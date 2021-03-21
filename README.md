@@ -10,6 +10,7 @@ I work as an IT consultant who has a project with Reddit. The problem that Reddi
 ---
 ### Executive Summary
 
+Reddit is a big online community that has many subreddit, but this website does not have the feature to recommend the user about the relevant subreddit with their post. The model classification is introduced to increase the convenience when the user want to post but they do not know which subreddit that they should select and the model also decreases the wrong post in the subreddit. 9-1-1 and NCIS is the action drama which have many similar points so Reddit wants the model to separate the post before sending the post to the subreddit. The model in this work has accuracy at 87.5% and the word classification shows the user usually talk about 'Buck' which is the main character in 9-1-1. After using the model, Reddit will get a more clean subreddit (lower number of wrong posts) and improve the quality of the website.
 
 ---
 ### Conclusions and Recommendations
